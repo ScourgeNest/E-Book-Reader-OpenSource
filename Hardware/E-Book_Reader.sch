@@ -2634,23 +2634,23 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="R2-PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="R1_PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="SUPPLY17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="TP1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part uuid="2882400055" name="TP4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
-<part name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_TX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_RX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_VBAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400055" name="TP_GND1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_GND" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_MISO" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_MOSI" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_SCK" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_EPD_BUSY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_EPD_CS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_EPD_DC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_EPD_RST" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_3V3_C" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_VBUS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_INT_RTC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
+<part name="TP_EPD_3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.DKRHy5HgT_ynGa-WEbmUzw" deviceset="TP" device="TP20R"/>
 </parts>
 <sheets>
 <sheet>
@@ -3270,71 +3270,71 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <instance part="SUPPLY17" gate="G$1" x="55.88" y="-7.62" smashed="yes">
 <attribute name="VALUE" x="55.753" y="-4.445" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="TP1" gate="G$1" x="76.2" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_TX" gate="G$1" x="76.2" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="77.47" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="74.93" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP2" gate="G$1" x="81.28" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_RX" gate="G$1" x="81.28" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="82.55" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="80.01" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP3" gate="G$1" x="86.36" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_VBAT" gate="G$1" x="86.36" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="87.63" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="85.09" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP4" gate="G$1" x="91.44" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_GND1" gate="G$1" x="91.44" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="92.71" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="90.17" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP5" gate="G$1" x="96.52" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_GND" gate="G$1" x="96.52" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="97.79" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="95.25" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP6" gate="G$1" x="76.2" y="-27.94" smashed="yes" rot="R180">
+<instance part="TP_MISO" gate="G$1" x="76.2" y="-27.94" smashed="yes" rot="R180">
 <attribute name="NAME" x="77.47" y="-29.21" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="74.93" y="-26.67" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP7" gate="G$1" x="83.82" y="-27.94" smashed="yes" rot="R180">
+<instance part="TP_MOSI" gate="G$1" x="83.82" y="-27.94" smashed="yes" rot="R180">
 <attribute name="NAME" x="85.09" y="-29.21" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="82.55" y="-26.67" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP8" gate="G$1" x="91.44" y="-27.94" smashed="yes" rot="R180">
+<instance part="TP_SCK" gate="G$1" x="91.44" y="-27.94" smashed="yes" rot="R180">
 <attribute name="NAME" x="92.71" y="-29.21" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="90.17" y="-26.67" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP9" gate="G$1" x="99.06" y="-27.94" smashed="yes" rot="R180">
+<instance part="TP_EPD_BUSY" gate="G$1" x="99.06" y="-27.94" smashed="yes" rot="R180">
 <attribute name="NAME" x="100.33" y="-29.21" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="97.79" y="-26.67" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP10" gate="G$1" x="106.68" y="-27.94" smashed="yes" rot="R180">
+<instance part="TP_EPD_CS" gate="G$1" x="106.68" y="-27.94" smashed="yes" rot="R180">
 <attribute name="NAME" x="107.95" y="-29.21" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="105.41" y="-26.67" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP11" gate="G$1" x="76.2" y="-48.26" smashed="yes" rot="R180">
+<instance part="TP_EPD_DC" gate="G$1" x="76.2" y="-48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="77.47" y="-49.53" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="74.93" y="-46.99" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP12" gate="G$1" x="83.82" y="-48.26" smashed="yes" rot="R180">
+<instance part="TP_EPD_RST" gate="G$1" x="83.82" y="-48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="85.09" y="-49.53" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="82.55" y="-46.99" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP13" gate="G$1" x="91.44" y="-48.26" smashed="yes" rot="R180">
+<instance part="TP_3V3_C" gate="G$1" x="91.44" y="-48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="92.71" y="-49.53" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="90.17" y="-46.99" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP14" gate="G$1" x="99.06" y="-48.26" smashed="yes" rot="R180">
+<instance part="TP_VBUS" gate="G$1" x="99.06" y="-48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="100.33" y="-49.53" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="97.79" y="-46.99" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP15" gate="G$1" x="106.68" y="-48.26" smashed="yes" rot="R180">
+<instance part="TP_INT_RTC" gate="G$1" x="106.68" y="-48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="107.95" y="-49.53" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="105.41" y="-46.99" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP16" gate="G$1" x="104.14" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_3V3" gate="G$1" x="104.14" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="105.41" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="102.87" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP17" gate="G$1" x="111.76" y="-10.16" smashed="yes" rot="R180">
+<instance part="TP_EPD_3V3" gate="G$1" x="111.76" y="-10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="113.03" y="-11.43" size="1.778" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="110.49" y="-8.89" size="1.778" layer="97" rot="R180"/>
 </instance>
@@ -3727,12 +3727,12 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="91.44" y1="-7.62" x2="91.44" y2="-5.08" width="0.1524" layer="91"/>
 <label x="91.44" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP4" gate="G$1" pin="TP"/>
+<pinref part="TP_GND1" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="96.52" y1="-7.62" x2="96.52" y2="-5.08" width="0.1524" layer="91"/>
 <label x="96.52" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP5" gate="G$1" pin="TP"/>
+<pinref part="TP_GND" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="VBAT" class="1">
@@ -3763,7 +3763,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="86.36" y1="-7.62" x2="86.36" y2="-5.08" width="0.1524" layer="91"/>
 <label x="86.36" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP3" gate="G$1" pin="TP"/>
+<pinref part="TP_VBAT" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="SCL" class="2">
@@ -3884,7 +3884,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="83.82" y1="-25.4" x2="83.82" y2="-22.86" width="0.1524" layer="91"/>
 <label x="83.82" y="-22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP7" gate="G$1" pin="TP"/>
+<pinref part="TP_MOSI" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="3V3" class="1">
@@ -4023,7 +4023,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="104.14" y1="-7.62" x2="104.14" y2="-5.08" width="0.1524" layer="91"/>
 <label x="104.14" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP16" gate="G$1" pin="TP"/>
+<pinref part="TP_3V3" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="SCK" class="2">
@@ -4059,7 +4059,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="91.44" y1="-25.4" x2="91.44" y2="-22.86" width="0.1524" layer="91"/>
 <label x="91.44" y="-22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP8" gate="G$1" pin="TP"/>
+<pinref part="TP_SCK" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="MISO" class="2">
@@ -4090,7 +4090,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="76.2" y1="-25.4" x2="76.2" y2="-22.86" width="0.1524" layer="91"/>
 <label x="76.2" y="-22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP6" gate="G$1" pin="TP"/>
+<pinref part="TP_MISO" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="VUSB" class="1">
@@ -4219,7 +4219,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="99.06" y1="-45.72" x2="99.06" y2="-43.18" width="0.1524" layer="91"/>
 <label x="99.06" y="-43.18" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP14" gate="G$1" pin="TP"/>
+<pinref part="TP_VBUS" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="USB_D-" class="2">
@@ -4317,7 +4317,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="111.76" y1="-7.62" x2="111.76" y2="-5.08" width="0.1524" layer="91"/>
 <label x="111.76" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP17" gate="G$1" pin="TP"/>
+<pinref part="TP_EPD_3V3" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="SRC" class="1">
@@ -4433,7 +4433,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="106.68" y1="-25.4" x2="106.68" y2="-22.86" width="0.1524" layer="91"/>
 <label x="106.68" y="-22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP10" gate="G$1" pin="TP"/>
+<pinref part="TP_EPD_CS" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="FLASH_CS" class="2">
@@ -4488,7 +4488,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="76.2" y1="-7.62" x2="76.2" y2="-5.08" width="0.1524" layer="91"/>
 <label x="76.2" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP1" gate="G$1" pin="TP"/>
+<pinref part="TP_TX" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="RX" class="2">
@@ -4500,7 +4500,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="81.28" y1="-7.62" x2="81.28" y2="-5.08" width="0.1524" layer="91"/>
 <label x="81.28" y="-5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP2" gate="G$1" pin="TP"/>
+<pinref part="TP_RX" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="RTC_RST" class="2">
@@ -4578,7 +4578,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="91.44" y1="-45.72" x2="91.44" y2="-43.18" width="0.1524" layer="91"/>
 <label x="91.44" y="-43.18" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP13" gate="G$1" pin="TP"/>
+<pinref part="TP_3V3_C" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="EPD_RST" class="2">
@@ -4595,7 +4595,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="83.82" y1="-45.72" x2="83.82" y2="-43.18" width="0.1524" layer="91"/>
 <label x="83.82" y="-43.18" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP12" gate="G$1" pin="TP"/>
+<pinref part="TP_EPD_RST" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="RESET" class="2">
@@ -4641,7 +4641,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="106.68" y1="-45.72" x2="106.68" y2="-43.18" width="0.1524" layer="91"/>
 <label x="106.68" y="-43.18" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP15" gate="G$1" pin="TP"/>
+<pinref part="TP_INT_RTC" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="32KHZ" class="2">
@@ -4675,7 +4675,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="99.06" y1="-25.4" x2="99.06" y2="-22.86" width="0.1524" layer="91"/>
 <label x="99.06" y="-22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP9" gate="G$1" pin="TP"/>
+<pinref part="TP_EPD_BUSY" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="EPD_DC" class="2">
@@ -4692,7 +4692,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <wire x1="76.2" y1="-45.72" x2="76.2" y2="-43.18" width="0.1524" layer="91"/>
 <label x="76.2" y="-43.18" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP11" gate="G$1" pin="TP"/>
+<pinref part="TP_EPD_DC" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="IO/BOOT" class="2">
