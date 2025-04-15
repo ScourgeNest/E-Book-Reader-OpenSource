@@ -749,7 +749,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="29_8" x="-1.505" y="-1.71" dx="0.8" dy="0.8" layer="1"/>
 <smd name="29_9" x="-0.255" y="-1.71" dx="0.8" dy="0.8" layer="1"/>
 </package>
-<package name="FH34SRJ24S05SH99" library_version="20">
+<package name="FH34SRJ24S05SH99" library_version="21">
 <description>&lt;b&gt;FH34SRJ-24S-0.5SH(99)-4&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="5.75" y="1.45" dx="0.8" dy="0.3" layer="1" rot="R90"/>
